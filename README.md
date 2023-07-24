@@ -132,3 +132,6 @@ Ciclos futuros se concentrarão em:
 ##### Técnicas estatísticas como testes de hipóteses, validação cruzada
 ##### Algoritmos de aprendizado de máquina, incluindo regressão linear, LASSO, Random Forest e XGBoost
 ##### Métricas de desempenho como MAE, MAPE e RMSE
+
+# Trabalho de Conslusão de Curso da Pós-Graduação em Engenharia e Análise de Dados
+link PDF : https://drive.google.com/drive/folders/1GZyiIwfy7Z1fZd1yLSyHEPfxgEytPtNR?usp=sharing
